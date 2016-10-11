@@ -1,6 +1,6 @@
 {
   "name": "false-looking",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Helps validate if a property is either 'false' or false",
   "main": "index.js",
   "scripts": {
