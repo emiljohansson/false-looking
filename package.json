@@ -1,0 +1,26 @@
+{
+  "name": "false-looking",
+  "version": "0.0.0",
+  "description": "Helps validate if a property is either 'false' or false",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiljohansson/false-looking.git"
+  },
+  "keywords": [
+    "false",
+    "looking"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiljohansson/false-looking/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/false-looking#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
