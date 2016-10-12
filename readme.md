@@ -1,4 +1,4 @@
-# string-replace-first
+# false-looking
 
 > Helps validate if a property is either 'false' or false. Used for inconsistent json response data.
 
